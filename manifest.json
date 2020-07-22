@@ -1,0 +1,30 @@
+
+{
+  "short_name" : "The GS Platform",
+  "description" : "online.thegsplatform.in",
+  "start_url" : "https://online.thegsplatform.in/",
+  "name" : "The GS Platform",
+  "scope" : "https://online.thegsplatform.in",
+  "display" : "standalone",
+  "orientation" : "portrait",
+    "theme_color": "#1a73e8",
+  "lang" : "English",
+    "icons": [
+      {
+       "src": "https://drive.google.com/uc?export=view&id=1sX5ZrDoPX8lGbmZxwX_faYOb9MBt4yKf",
+       "type": "image/png",
+       "sizes": "180x180"
+      },
+      {
+       "src": "https://drive.google.com/uc?export=view&id=1N3Nfy4ZLfipzWO_oTauWQ1Xi9tapwXBC",
+       "type": "image/png",
+       "sizes": "192x192"
+      },
+      {
+      "src": "https://drive.google.com/uc?export=view&id=1vTNj8q7C0K0tbtYPLTabhZFqt-vMMdmP",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+  }
+
